@@ -16,7 +16,7 @@
 int temperaturePin = 0; //the analog pin the TMP36's Vout (sense) pin is connected to
                         //the resolution is 10 mV / degree centigrade 
                         //(500 mV offset) to make negative temperatures an option
-int ledAnalogOne[] = {9, 10, 11}; 
+int ledAnalogOne[] = {9, 10, 11}; //RGB 
 
 /*
 const byte DARKRED[] = {164, 8, 8}; 
